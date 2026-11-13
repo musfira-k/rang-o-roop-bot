@@ -28,7 +28,4 @@ In Antigravity: open this folder as a workspace and run the command above in its
 - `index.html`: the whole site (HTML, CSS, JS in one file)
 - `data/demo-store-sheet.xlsx`: demo catalog and orders sheet (import into Google Sheets)
 
-## Before publishing
-
-Replace `YOUR-USERNAME/YOUR-REPO` and `YOUR-PROFILE` in the GitHub and LinkedIn links inside `index.html`.
 All products, prices and orders are made-up demo data.
